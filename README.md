@@ -1,13 +1,15 @@
-# Middle-earth Agents
+# Middle-Earth Agents
 
-Um monorepo para gerenciar a orquestração de agentes de engenharia.
+The central command and control repository for the agentic development workflow. This project orchestrates the collaboration between specialized agents to deliver high-quality, scalable software.
 
-## Estrutura
-- `agents/`: Contém os submódulos dos agentes (Gandalf, Boromir, etc).
-- `protocols/`: A "língua comum" (Sinais) para comunicação entre agentes.
+## The Fellowship
+- **Gandalf:** Strategic architecture, harness engineering, and project guidance.
+- **Boromir:** Testing authority, quality gatekeeper, and autonomous verification agent.
 
-## Setup
-Para inicializar os submódulos:
-```bash
-git submodule update --init --recursive
-```
+## Core Mandates
+- **Context First:** All non-trivial changes require a `docs/contexto.md`.
+- **Proof Before Alloy:** No code is merged without Boromir's automated verification.
+- **Harness Integrity:** Every session must update `QUEST_PROGRESS.md`.
+
+## Getting Started
+Ensure you have the agent environment configured. Invoke Gandalf to map your next quest.
