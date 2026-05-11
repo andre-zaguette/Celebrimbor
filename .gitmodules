@@ -1,0 +1,3 @@
+[submodule "agents/gandalf"]
+	path = agents/gandalf
+	url = https://github.com/andre-zaguette/Gandalf.git
